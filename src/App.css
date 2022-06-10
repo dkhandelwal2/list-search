@@ -2,6 +2,9 @@
   --gray: #d5d5d5;
   --dark-gray: rgba(128, 128, 128, 0.2);
 }
+*{
+  box-sizing: border-box;
+}
 
 .app {
   display: flex;
